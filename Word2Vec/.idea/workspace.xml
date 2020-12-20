@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d1edd82-e588-4ab5-864f-560a5eeec7c2" name="Default Changelist" comment="" />
+    <list default="true" id="5d1edd82-e588-4ab5-864f-560a5eeec7c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JupyterTrust" id="8bb58e72-e85d-4333-89a5-cfb7ca87b64d" />
   <component name="ProjectId" id="1ltua7cwxqWuO7Vddgv4GzzSe4j" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,6 +33,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -53,12 +68,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608428769088</updated>
-      <workItem from="1608428795697" duration="599000" />
+      <workItem from="1608428795697" duration="1520000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="216" key="FileChooserDialogImpl" timestamp="1608447780918">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="548" y="216" key="FileChooserDialogImpl/0.0.1440.920/-1920.0.1920.1040@0.0.1440.920" timestamp="1608447780918" />
+    <state x="269" y="119" key="SettingsEditor" timestamp="1608447691314">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="269" y="119" key="SettingsEditor/0.0.1440.920/-1920.0.1920.1040@0.0.1440.920" timestamp="1608447691314" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
